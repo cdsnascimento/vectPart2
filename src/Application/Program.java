@@ -38,6 +38,7 @@ public class Program {
 		double avg =  sum / n;
 		
 		System.out.printf("AVERAGE PRICE: %.2f%n", avg);
+		System.out.println("teste para atualização no git");
 		
 		sc.close();
 
